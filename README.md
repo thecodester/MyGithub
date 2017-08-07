@@ -1,3 +1,3 @@
 # MyGithub
-AAA BBB CCC
+AAA
 From SAP Web IDE
